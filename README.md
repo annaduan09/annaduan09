@@ -11,23 +11,12 @@
 </div>
 
 ### Hi there 👋
-I'm a spatial data science grad student and a researcher at the University of Pennsylvania. I’m passionate about data viz and spatial analytics, and love a good map. R, Shiny, and Python are my favorites, but I also work in ArcGIS, CSS, HTML, JavaScript, and the Adobe suite.
 
-I'm currently pursuing a Master of Urban Spatial Analytics at the University of Pennsylvania's Weitzman School of Design, and I am the teaching assistant for Public Policy Analytics, one of the program's core classes.
+My name is Anna and I’m passionate about data viz and spatial analytics, and love a good map. R, Shiny, and Python are my favorite tools, but I also work in ArcGIS, CSS, HTML, JavaScript, and the Adobe suite. I'm pursuing a Master of Urban Spatial Analytics at the University of Pennsylvania's Weitzman School of Design, where I also serve as teaching assistant for the graduate-level Public Policy Analytics course. I am also a Research Analyst at the Housing Initiative at Penn, where I study the equity implications of affordable housing policy and [Emergency Rental Assistance.](https://www.housinginitiative.org/rent-debt-and-tenant-vulnerability-in-los-angeles.html)
 
-I am also a Research Analyst at the Housing Initiative at Penn, where I study the equity implications of affordable housing policy and [Emergency Rental Assistance.](https://www.housinginitiative.org/rent-debt-and-tenant-vulnerability-in-los-angeles.html)
+- 🌱 I’m currently learning how to leverage LLMs using Python libraries. 
+- 💬 Ask me about data visualization with R
+- 📫 How to reach me: annaduan@sas.upenn.edu
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm a Pennsylvania [state recordholder](https://www.openpowerlifting.org/u/annaduan) in powerlifting!
 
-<!--
-**annaduan09/annaduan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
