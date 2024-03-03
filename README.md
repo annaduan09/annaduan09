@@ -15,7 +15,7 @@ I'm a spatial data science grad student and a researcher at the University of Pe
 
 I'm currently pursuing a Master of Urban Spatial Analytics at the University of Pennsylvania's Weitzman School of Design, and I am the teaching assistant for Public Policy Analytics, one of the program's core classes.
 
-I am also a Research Analytics at the Housing Initiative at Penn, where I study the health equity implications of affordable housing policies. 
+I am also a Research Analyst at the Housing Initiative at Penn, where I study the equity implications of affordable housing policy and [Emergency Rental Assistance.](https://www.housinginitiative.org/rent-debt-and-tenant-vulnerability-in-los-angeles.html)
 
 <!--
 **annaduan09/annaduan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
