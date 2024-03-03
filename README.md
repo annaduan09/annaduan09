@@ -12,7 +12,7 @@
 
 ### Hi there 👋
 
-My name is Anna and I’m passionate about data viz and spatial analytics, and love a good map. R, Shiny, and Python are my favorite tools, but I also work in ArcGIS, CSS, HTML, JavaScript, and the Adobe suite. I'm pursuing a Master of Urban Spatial Analytics at the University of Pennsylvania's Weitzman School of Design, where I also serve as teaching assistant for the graduate-level Public Policy Analytics course. I am also a Research Analyst at the Housing Initiative at Penn, where I study the equity implications of affordable housing policy and [Emergency Rental Assistance.](https://www.housinginitiative.org/rent-debt-and-tenant-vulnerability-in-los-angeles.html)
+My name is Anna and I’m passionate about data viz and spatial analytics, and love a good map. R, Shiny, and Python are my favorite tools, but I also work in ArcGIS, CSS, HTML, JavaScript, and the Adobe suite. I'm pursuing a [Master of Urban Spatial Analytics](https://www.design.upenn.edu/musa/about) at the University of Pennsylvania's Weitzman School of Design, where I also serve as teaching assistant for the graduate-level Public Policy Analytics course. I am also a Research Analyst at the Housing Initiative at Penn, where I study the equity implications of affordable housing policy and [Emergency Rental Assistance.](https://www.housinginitiative.org/rent-debt-and-tenant-vulnerability-in-los-angeles.html)
 
 - 🌱 I’m currently learning how to leverage LLMs using Python libraries. 
 - 💬 Ask me about data visualization with R
