@@ -11,6 +11,11 @@
 </div>
 
 ### Hi there 👋
+I'm a spatial data science grad student and a researcher at the University of Pennsylvania. I’m passionate about data viz and spatial analytics, and love a good map. R, Shiny, and Python are my favorites, but I also work in ArcGIS, CSS, HTML, JavaScript, and the Adobe suite.
+
+I'm currently pursuing a Master of Urban Spatial Analytics at the University of Pennsylvania's Weitzman School of Design, and I am the teaching assistant for Public Policy Analytics, one of the program's core classes.
+
+I am also a Research Analytics at the Housing Initiative at Penn, where I study the health equity implications of affordable housing policies. 
 
 <!--
 **annaduan09/annaduan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
