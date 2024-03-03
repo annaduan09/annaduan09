@@ -1,7 +1,4 @@
 <div id="badges">
-   <a href="https://www.tanyaviz.com" target="_blank">
-    <img src="https://img.shields.io/badge/tanyaviz.com-black?style=for-the-badge&logo=internet&logoColor=white" alt="Site Badge"/>
-  </a>
   <a href="www.linkedin.com/in/annaduan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
