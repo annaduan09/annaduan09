@@ -20,5 +20,8 @@ My name is Anna and I’m passionate about data viz and spatial analytics, and l
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a Pennsylvania [state recordholder](https://www.openpowerlifting.org/u/annaduan) in powerlifting!
 
-### Some of my data visualization work
-<img src="https://github.com/annaduan09/annaduan09/blob/b47763a1e2f6e34cbc93a8840af87526ad21d0d0/30%20day%20map%20challenge.gif)https://github.com/annaduan09/annaduan09/blob/b47763a1e2f6e34cbc93a8840af87526ad21d0d0/30%20day%20map%20challenge.gif" alt="maps"/>
+### 30 Day Map Challenge 2023
+![30 Day Map Challenge 2023](https://github.com/annaduan09/annaduan09/blob/b47763a1e2f6e34cbc93a8840af87526ad21d0d0/30%20day%20map
+
+### 30 Day Map Challenge 2022
+![30 Day Map Challenge 2022](https://github.com/annaduan09/annaduan09/blob/b47763a1e2f6e34cbc93a8840af87526ad21d0d0/30%20day%20map
