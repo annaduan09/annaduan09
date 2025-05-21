@@ -21,12 +21,11 @@
 
 My name is Anna and I’m passionate about spatial data science, machine learning, and maps. My favorite tools are R, Shiny, and Python, but I also work in ArcGIS, CSS, HTML, and JavaScript.
 
-I'm pursuing a [Master of Urban Spatial Analytics](https://www.design.upenn.edu/musa/about) at the University of Pennsylvania's Weitzman School of Design, where I serve as teaching assistant for the graduate-level Public Policy Analytics course. I am also a data scientist at an NYC tech startup.
+I'm pursuing a [Master of Urban Spatial Analytics](https://www.design.upenn.edu/musa/about) at the University of Pennsylvania's Weitzman School of Design, where I serve as teaching assistant for the graduate-level Public Policy Analytics course. I am also a data scientist at a NYC tech startup. Previously, I worked at the Housing Initiative at Penn, where I got to build [dashboards](https://housinginitiative.shinyapps.io/PHFA_Housing_Dashboard/) and webmaps about affordable housing.
 
 - 🌱 I’m currently learning how to talk to LLMs using Python libraries including Langchain
 - 💬 Ask me about data visualization with R libraries
-- 📫 How to reach me: annaduan@sas.upenn.edu
-- 😄 Pronouns: she/her
+- 🏈 Currently building: a [dashboard](https://annaduan09.github.io/penn-football-testing-dashboard/) to help Penn Football evaluate and understand their athletes' performance
 - ⚡ Fun fact: I'm a Pennsylvania [state recordholder](https://www.openpowerlifting.org/u/annaduan) in powerlifting!
 
 ### 30 Day Map Challenge 2023
@@ -34,3 +33,5 @@ I'm pursuing a [Master of Urban Spatial Analytics](https://www.design.upenn.edu/
 
 ### 30 Day Map Challenge 2022
 ![30 Day Map Challenge 2022](https://github.com/annaduan09/annaduan09/blob/a27d653fbe08e774dde4fffc6e2d8a8a66cb8666/30maps2022.png)
+
+
